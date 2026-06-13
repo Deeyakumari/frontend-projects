@@ -13,6 +13,8 @@ A responsive single-page CV website built using HTML and CSS.
 - CSS3
 - Media Queries
 
+## live view of project
+🔗 https://frontend-projects-qvh4q2jj7-deeya-kumari-s-projects.vercel.app
 
 
 ## How to Run
