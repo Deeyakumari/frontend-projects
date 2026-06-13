@@ -2,26 +2,32 @@
 
 A responsive single-page CV website built using HTML and CSS.
 
-## Features
-- Responsive Design
-- Clean Resume Layout
-- Mobile Friendly
-- HTML + CSS only
+## Project URL
 
-## Technologies Used
-- HTML5
-- CSS3
-- Media Queries
+https://roadmap.sh/projects/single-page-cv
 
-## live view of project
+## Live Demo
+
 🔗 https://frontend-projects-qvh4q2jj7-deeya-kumari-s-projects.vercel.app
 
+## Preview
 
-## How to Run
+![Project Screenshot](screenshot.png)
+
+## Technologies Used
+
+- HTML
+- CSS
+- Responsive Design
+- Media Queries
+
+## Features
+
+- Responsive Layout
+- Mobile Friendly
+- Clean UI
+
+## Run Locally
 
 1. Clone repository
 2. Open index.html
-
-## Author
-
-Deeya Kumari
