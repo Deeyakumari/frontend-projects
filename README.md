@@ -8,11 +8,7 @@ https://roadmap.sh/projects/single-page-cv
 
 ## Live Demo
 
-🔗 https://frontend-projects-qvh4q2jj7-deeya-kumari-s-projects.vercel.app
-
-## Preview
-
-![Project Screenshot](screenshot.png)
+🔗 https://frontend-projects-wheat.vercel.app/
 
 ## Technologies Used
 
